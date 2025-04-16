@@ -10,6 +10,7 @@ Nufold - https://colab.research.google.com/github/kiharalab/nufold/blob/master/C
 
 proteinx:
 https://github.com/bytedance/Protenix/issues/90
+https://www.kaggle.com/code/adamlogman/randomness 
 
 RhoFold - not that good
 
