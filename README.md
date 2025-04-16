@@ -12,7 +12,7 @@ proteinx:
 https://github.com/bytedance/Protenix/issues/90
 https://www.kaggle.com/code/adamlogman/randomness 
 
-RhoFold - not that good
+RhoFold - not that good, https://github.com/ml4bio/RhoFold
 
 
 
